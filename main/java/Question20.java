@@ -17,7 +17,6 @@ public class Question20 {
         /*
          * QUESTION 20
          * Count orders status wise.
-         *
          * Solve using Java Stream API.
          */
 

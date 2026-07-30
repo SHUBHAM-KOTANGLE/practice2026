@@ -21,9 +21,18 @@ public class Question15 {
          * QUESTION 15
          * Find top 5 highest rated products.
          *
-         * Solve using Java Stream API.
+         * Solve using Java Stream API & Java.
          */
+//        Java
+        List<Product> listSort = new ArrayList<>(products);
+        listSort.sort(Comparator.comparingDouble(Product::rating).reversed());
+        for(int i=0;i<5;i++){
+            System.out.println(listSort.get(i));
+        }
 
+
+
+//        Stream
         // Write your solution here
         List<Product> list = products.stream().sorted(Comparator.comparingDouble(Product::rating).reversed())
                 .limit(5)

@@ -21,7 +21,20 @@ public class Question23 {
          *
          * Solve using Java Stream API.
          */
+//java
+        Map<String,List<Student>> map = new HashMap<>();
+        for(Student student:students){
 
+            List<Student> list = map.getOrDefault(student.branch(), new ArrayList<>());
+            list.add(student);
+            map.put(student.branch(),list);
+
+        }
+
+
+
+
+//        string
         // Write your solution here
         Map<String, Optional<Student>> collect = students.stream()
 //                .map(student -> student.branch() + student.marks())

@@ -21,9 +21,19 @@ public class Question14 {
          * QUESTION 14
          * Group products by category.
          *
-         * Solve using Java Stream API.
+         * Solve using Java Stream API & Java.
          */
+//       JAVA
+        Map<String,List<Product>> map = new HashMap<>();
+        for(Product product:products){
 
+            List<Product> list = map.getOrDefault(product.category(), new ArrayList<>());
+            list.add(product);
+            map.put(product.category(),list);
+        }
+        System.out.println(map);
+
+//        stream
         // Write your solution here
         Map<String, List<Product>> collect = products.stream().collect(Collectors.groupingBy(Product::category));
         System.out.println(collect);

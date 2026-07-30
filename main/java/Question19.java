@@ -21,6 +21,9 @@ public class Question19 {
          */
 
         // Write your solution here
+        List<Order> ord =new ArrayList<>(orders);
+        Order max1 = Collections.max(ord, Comparator.comparingDouble(Order::amount));
+        System.out.println(max1);
 
         Optional<Order> max = orders.stream()
                 .max(Comparator.comparingDouble(Order::amount));

@@ -21,8 +21,27 @@ public class Question16 {
          * QUESTION 16
          * Find category wise average price.
          *
-         * Solve using Java Stream API.
+         * Solve using Java Stream API & Java.
          */
+//      Java
+        Map<String,List<Product>> map = new HashMap<>();
+        Map<String,Double> doubleMap = new HashMap<>();
+        for(Product product:products){
+            List<Product> list = map.getOrDefault(product.category(), new ArrayList<>());
+            list.add(product);
+            map.put(product.category(), list);
+        }
+        for (Map.Entry<String, List<Product>> entry :map.entrySet()){
+            List<Product> value = entry.getValue();
+            double sum =0;
+            for(Product product:value){
+                sum = sum + product.price();
+            }
+            double avg = value.isEmpty() ? 0 : sum / value.size() ;
+            doubleMap.put(entry.getKey(), avg);
+
+        }
+        System.out.println(doubleMap);
 
         // Write your solution here
         HashMap<String, Double> collect = products.stream()

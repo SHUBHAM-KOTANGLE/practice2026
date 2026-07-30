@@ -17,7 +17,7 @@ public class Question17 {
          * QUESTION 17
          * Find completed orders.
          *
-         * Solve using Java Stream API.
+         * Solve using Java Stream API & Java.
          */
 
         // Write your solution here

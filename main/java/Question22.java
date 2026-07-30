@@ -18,17 +18,22 @@ public class Question22 {
          * QUESTION 22
          * Group orders customer wise and calculate total amount.
          *
-         * Solve using Java Stream API.
+         * Solve using Java Stream API & java .
          */
+//      Java
+        Map<String,Double> map1= new HashMap<>();
+        for(Order order:orders){
+            map1.put(order.customerName(), map1.getOrDefault(order.customerName(),0.0 )+order.amount());
+        }
+        System.out.println(map1 +"  ddd");
 
+//      Stream
         // Write your solution here
-        orders.stream()
+        HashMap<String, Double> collect = orders.stream()
                 .collect(Collectors.groupingBy(
                         Order::customerName,
                         HashMap::new,
-                        Collectors.summingDouble(Order::amount)
-                ));
-
-
+                        Collectors.summingDouble(Order::amount)));
+        System.out.println(collect);
     }
 }
