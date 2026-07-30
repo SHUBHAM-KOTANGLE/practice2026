@@ -1,1 +1,0 @@
-public record Student(int id,String name,double marks,String branch,int year) {}

@@ -1,1 +1,0 @@
-public record Product(int id,String name,String category,double price,int quantity,double rating) {}
