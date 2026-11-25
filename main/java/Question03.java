@@ -47,7 +47,7 @@ public class Question03 {
         Map<String, Double> collect = employees.stream()
                 .collect(Collectors.groupingBy(Employee::department,
                         Collectors.averagingDouble(Employee::salary)));
-//        System.out.println(collect);
+        System.out.println("stream  "+collect);
 
     }
 }

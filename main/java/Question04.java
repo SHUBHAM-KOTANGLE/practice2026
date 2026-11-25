@@ -48,5 +48,8 @@ public class Question04 {
                 .toList();
         System.out.println(list);
 
+        OptionalDouble max = employees.stream().mapToDouble(Employee::salary).max();
+        System.out.println("Max  "+max);
+
     }
 }
