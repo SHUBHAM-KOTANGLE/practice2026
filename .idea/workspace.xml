@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb65c7e9-10d3-464c-8ce8-cd2d56daa8e5" name="Changes" comment="FIRST COMMIT" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SHUBHAM-KOTANGLE&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SHUBHAM-KOTANGLE/practice2026.git&quot;,
+    &quot;accountId&quot;: &quot;c7f97eee-fd30-44c8-b175-781720d71cef&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3GdPheJKg8j1a8SUNF5ZNeQYxOS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Question01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question29.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shubham/IdeaProjects/javaPractice/src/main/java&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shubham\IdeaProjects\javaPractice\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Question13">
+    <configuration name="Question09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question09" />
+      <module name="javaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question10" />
+      <module name="javaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question11" />
+      <module name="javaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question12" />
+      <module name="javaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question13" />
+      <module name="javaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Question13" />
+        <item itemvalue="Application.Question12" />
+        <item itemvalue="Application.Question11" />
+        <item itemvalue="Application.Question10" />
+        <item itemvalue="Application.Question09" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb65c7e9-10d3-464c-8ce8-cd2d56daa8e5" name="Changes" comment="" />
+      <created>1784298610875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784298610875</updated>
+      <workItem from="1784298639714" duration="7000" />
+      <workItem from="1784305548094" duration="608000" />
+      <workItem from="1784548253780" duration="734000" />
+      <workItem from="1784549476944" duration="308000" />
+    </task>
+    <task id="LOCAL-00001" summary="FIRST COMMIT">
+      <option name="closed" value="true" />
+      <created>1785166933376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785166933376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FIRST COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIRST COMMIT" />
+  </component>
+</project>
