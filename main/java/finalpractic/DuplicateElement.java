@@ -1,7 +1,9 @@
 package finalpractic;
 
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -14,11 +16,12 @@ public class DuplicateElement {
             );
 
 
-            List<Map.Entry<Integer, Long>> list = numbers.stream()
-                    .collect(Collectors.groupingBy(num -> num, Collectors.counting()))
-                    .entrySet()
-                    .stream().filter(num -> num.getValue() > 1).toList();
-            System.out.println(list);
+            Map<Integer, Long> collect = numbers.stream()
+                    .collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting()));
+
+            collect.entrySet().removeIf(entry -> entry.getValue() <= 1 );
+
+            System.out.println(collect);
 
         }
 

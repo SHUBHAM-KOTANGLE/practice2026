@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb65c7e9-10d3-464c-8ce8-cd2d56daa8e5" name="Changes" comment="FIRST COMMIT" />
+    <list default="true" id="bb65c7e9-10d3-464c-8ce8-cd2d56daa8e5" name="Changes" comment="practive 25 now">
+      <change afterPath="$PROJECT_DIR$/main/java/finalpractic/ConvertListofEmployeesToMap8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/finalpractic/GroupDepartmentAndJobTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/finalpractic/HighestTotalSalaryExpenditure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/finalpractic/MostFrequentlyOccurring9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/finalpractic/PartitionEmployeesBasedSalary10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/finalpractic/Top2HighestPaidEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/production/practice26/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/finalpractic/CalculateAverageSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/finalpractic/CalculateAverageSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/finalpractic/DuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/finalpractic/DuplicateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/finalpractic/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/finalpractic/Employeee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/finalpractic/Problrm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/finalpractic/Problrm1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/finalpractic/SecondHighestSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/finalpractic/SecondHighestSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Question30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/finalpractic/CalculateAverageSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice26/finalpractic/CalculateAverageSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/finalpractic/DuplicateElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice26/finalpractic/DuplicateElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/finalpractic/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/finalpractic/Problrm1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice26/finalpractic/Problrm1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice26/finalpractic/SecondHighestSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice26/finalpractic/SecondHighestSalary.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +73,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -29,9 +84,68 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/SHUBHAM-KOTANGLE/practice2026.git&quot;,
-    &quot;accountId&quot;: &quot;c7f97eee-fd30-44c8-b175-781720d71cef&quot;
+    &quot;accountId&quot;: &quot;84f40957-eda9-4e37-b544-f30b2232bfe6&quot;
   }
 }</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="9.417677936126344E-120" />
+      <entry key="S2" value="1.7518057947966574E-30" />
+      <entry key="S5" value="1.2513949204021864E-12" />
+      <entry key="S10" value="1.1188467240378607E-6" />
+      <entry key="S30" value="0.011886863111044697" />
+      <entry key="S60" value="0.20997791725216924" />
+      <entry key="M2" value="1.4389821033895307" />
+      <entry key="M5" value="5.616090963748783" />
+      <entry key="M10" value="9.273625318695528" />
+      <entry key="M15" value="11.67994338400754" />
+      <entry key="M30" value="19.597055288262286" />
+      <entry key="H1" value="38.414536478109845" />
+      <entry key="H2" value="69.56032134150949" />
+      <entry key="H4" value="106.58204406630364" />
+      <entry key="D1" value="172.0990025928066" />
+      <entry key="W1" value="189.7819139093374" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000020888" />
+      <entry key="S10" value="1.0000015990413977" />
+      <entry key="S30" value="1.0244713729152164" />
+      <entry key="S60" value="1.4559996606459154" />
+      <entry key="M2" value="3.7497497779465023" />
+      <entry key="M5" value="11.251099617497205" />
+      <entry key="M10" value="18.404095855737538" />
+      <entry key="M15" value="22.70716477663977" />
+      <entry key="M30" value="32.877043520995414" />
+      <entry key="H1" value="52.469592940273515" />
+      <entry key="H2" value="84.04735909954029" />
+      <entry key="H4" value="123.35536612979764" />
+      <entry key="D1" value="198.10607595939723" />
+      <entry key="W1" value="219.14083549985773" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.4446712572925456E-5" />
+      <entry key="MS500" value="0.1195760197614843" />
+      <entry key="S2" value="0.5880456251454824" />
+      <entry key="S5" value="0.8086571099212473" />
+      <entry key="S10" value="0.899255926164268" />
+      <entry key="S30" value="0.9988311836927947" />
+      <entry key="S60" value="1.624206035173738" />
+      <entry key="M2" value="5.1119857995967" />
+      <entry key="M5" value="16.769889287497186" />
+      <entry key="M10" value="27.60013059875578" />
+      <entry key="M15" value="34.323910635562946" />
+      <entry key="M30" value="52.42720527345957" />
+      <entry key="H1" value="90.84303307107064" />
+      <entry key="H2" value="153.5716913695531" />
+      <entry key="H4" value="229.9099545852139" />
+      <entry key="D1" value="370.1976861239504" />
+      <entry key="W1" value="408.92158464104193" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -41,102 +155,148 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Question01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question17.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question18.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question19.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question22.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question23.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question25.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question27.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question28.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question29.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shubham/IdeaProjects/javaPractice/src/main/java&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConvertListofEmployeesToMap8.executor": "Run",
+    "Application.DuplicateElement.executor": "Run",
+    "Application.GroupDepartmentAndJobTitle.executor": "Run",
+    "Application.HighestTotalSalaryExpenditure.executor": "Run",
+    "Application.MostFrequentlyOccurring9.executor": "Run",
+    "Application.Problrm1.executor": "Run",
+    "Application.Question01.executor": "Run",
+    "Application.Question02.executor": "Run",
+    "Application.Question03.executor": "Run",
+    "Application.Question04.executor": "Run",
+    "Application.Question05.executor": "Run",
+    "Application.Question06.executor": "Run",
+    "Application.Question07.executor": "Run",
+    "Application.Question08.executor": "Run",
+    "Application.Question09.executor": "Run",
+    "Application.Question10.executor": "Run",
+    "Application.Question11.executor": "Run",
+    "Application.Question12.executor": "Run",
+    "Application.Question13.executor": "Run",
+    "Application.Question14.executor": "Run",
+    "Application.Question15.executor": "Run",
+    "Application.Question16.executor": "Run",
+    "Application.Question17.executor": "Run",
+    "Application.Question18.executor": "Run",
+    "Application.Question19.executor": "Run",
+    "Application.Question20.executor": "Run",
+    "Application.Question21.executor": "Run",
+    "Application.Question22.executor": "Run",
+    "Application.Question23.executor": "Run",
+    "Application.Question24.executor": "Run",
+    "Application.Question25.executor": "Run",
+    "Application.Question26.executor": "Run",
+    "Application.Question27.executor": "Run",
+    "Application.Question28.executor": "Run",
+    "Application.Question29.executor": "Run",
+    "Application.Top2HighestPaidEmployees.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA/practice26/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\practice26\main\java" />
       <recent name="C:\Users\Shubham\IdeaProjects\javaPractice\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question13">
-    <configuration name="Question09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question09" />
-      <module name="javaPractice" />
+  <component name="RunManager" selected="Application.MostFrequentlyOccurring9">
+    <configuration name="ConvertListofEmployeesToMap8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalpractic.ConvertListofEmployeesToMap8" />
+      <module name="practice26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalpractic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question10" />
-      <module name="javaPractice" />
+    <configuration name="GroupDepartmentAndJobTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalpractic.GroupDepartmentAndJobTitle" />
+      <module name="practice26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalpractic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question11" />
-      <module name="javaPractice" />
+    <configuration name="HighestTotalSalaryExpenditure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalpractic.HighestTotalSalaryExpenditure" />
+      <module name="practice26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalpractic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question12" />
-      <module name="javaPractice" />
+    <configuration name="MostFrequentlyOccurring9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalpractic.MostFrequentlyOccurring9" />
+      <module name="practice26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalpractic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question13" />
-      <module name="javaPractice" />
+    <configuration name="Top2HighestPaidEmployees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="finalpractic.Top2HighestPaidEmployees" />
+      <module name="practice26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="finalpractic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question13" />
-        <item itemvalue="Application.Question12" />
-        <item itemvalue="Application.Question11" />
-        <item itemvalue="Application.Question10" />
-        <item itemvalue="Application.Question09" />
+        <item itemvalue="Application.MostFrequentlyOccurring9" />
+        <item itemvalue="Application.ConvertListofEmployeesToMap8" />
+        <item itemvalue="Application.Top2HighestPaidEmployees" />
+        <item itemvalue="Application.GroupDepartmentAndJobTitle" />
+        <item itemvalue="Application.HighestTotalSalaryExpenditure" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +319,10 @@
       <workItem from="1784305548094" duration="608000" />
       <workItem from="1784548253780" duration="734000" />
       <workItem from="1784549476944" duration="308000" />
+      <workItem from="1795679963153" duration="10415000" />
+      <workItem from="1795704339366" duration="8144000" />
+      <workItem from="1795754233280" duration="5019000" />
+      <workItem from="1795776278721" duration="2991000" />
     </task>
     <task id="LOCAL-00001" summary="FIRST COMMIT">
       <option name="closed" value="true" />
@@ -174,8 +338,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FIRST COMMIT" />
     <option name="LAST_COMMIT_MESSAGE" value="FIRST COMMIT" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

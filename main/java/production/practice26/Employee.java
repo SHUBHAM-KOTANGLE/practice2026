@@ -1,14 +1,10 @@
-package finalpractic;
+package production.practice26;
 
-
-class Employee {
-    private int id;
-    private String name;
-    private String department;
-    private double salary;
-
-    // Constructor, getters
-
+public class Employee {
+    int id;
+    String name;
+    String department;
+    String designation;
 
     @Override
     public String toString() {
@@ -16,15 +12,8 @@ class Employee {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", department='" + department + '\'' +
-                ", salary=" + salary +
+                ", designation='" + designation + '\'' +
                 '}';
-    }
-
-    public Employee(int id, String name, String department, double salary) {
-        this.id = id;
-        this.name = name;
-        this.department = department;
-        this.salary = salary;
     }
 
     public int getId() {
@@ -51,11 +40,18 @@ class Employee {
         this.department = department;
     }
 
-    public double getSalary() {
-        return salary;
+    public String getDesignation() {
+        return designation;
     }
 
-    public void setSalary(double salary) {
-        this.salary = salary;
+    public void setDesignation(String designation) {
+        this.designation = designation;
+    }
+
+    public Employee(int id, String name, String department, String designation) {
+        this.id = id;
+        this.name = name;
+        this.department = department;
+        this.designation = designation;
     }
 }
